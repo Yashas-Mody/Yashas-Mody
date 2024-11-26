@@ -3,7 +3,6 @@
 - 🌱 I’m currently in 10th 
 - 💞️ I’m looking to collaborate on small projects
 - 📫 How to reach me : Whatsapp no.+91 96658 2168 / yashasmody1@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I am ready to learn and improve / i like java
 
 <!---
